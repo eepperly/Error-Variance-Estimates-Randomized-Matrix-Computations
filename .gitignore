@@ -1,0 +1,4 @@
+*.mexmaci64
+*.mexmaca64
+*.asv
+tests/*.mat
